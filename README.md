@@ -3,7 +3,7 @@
 This is the code from the tautorial of code spacer at youtube but changed so that it fits for your screen
 
 
-## problems
+## problems that need to be addressed
 
 * cause pywin32 was used, it does not work for linux
 
